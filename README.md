@@ -1,2 +1,2 @@
 # chaptering-txt-paragraphs
-Using goroutines to process short story paragraphs and turn them into chapters.
+Using goroutines to process short story paragraphs and turning them into chapters.
